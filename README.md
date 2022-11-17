@@ -42,7 +42,7 @@ https://www.sixdegreesofwikipedia.com/
 
 ## Proposed timeline
 ### Week 10
-
+Path analysis:
 - Setting up the local implementation of the website and mock trials.
 ### Week 11
 Path analysis:
