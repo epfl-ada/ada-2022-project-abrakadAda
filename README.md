@@ -27,7 +27,11 @@ That we will try to verify with a comparison with the optimal paths (machine beh
 ## Methods (chacun écrit ce qu'on fait)
 - data analysis with python librairies : Pandas, Numpy, BeautifulSoup
 - dataviz with Seaborn, Matplotlib
-- 
+
+- For comportemantal analysis:
+	- First, an analysis on how losing and winning influences the number of game played, using the number of games winned, lost and played to do linear regression and find the creteria that makes people want to play.
+	- Secondly, the same analysis but using time spend while playing.
+	- Then, an anaysis on the learning behavior of people through playing the game. I.e. if people get better the more they play the game. Need to do compaee win-rate, time spend per game, difficulty ratings... through time for each player.
 
 
 ## Proposed timeline
