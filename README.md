@@ -32,7 +32,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 	We will have to implement it locally, and implement a SQLITE database on which the algorithm can run. <br/>
 	There's a whole explanation on the Github linked on how to steps to follow to use it locally (further informations on Analysis_paths.ipynb).
 
-## Methods (chacun écrit ce qu'on fait)
+## Methods
 - For spatial analysis : 
 	- First parse the html version of every articles to extract the available links on each page and their position in the page with the library BeautifulSoup
 	- Then, by analyzing the finished and unfinished paths, assessing the positions of links clicked
@@ -60,7 +60,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 
 | Week                      | 10                                                                 | 11                                                                        | 12                                                   | 13                                         | 14                   |
 |---------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------|----------------------|
-| Spatial analysis          |                                                                    |                                                                           |                                                      |                                            |                      |
+| Spatial analysis          | Finding the real position position of clicked links                                                               | Statistical and positional analysis                                                                        | Comparison with optimal paths                                                     | Data visualization                                           | Final analysis and results                     |
 | Temporal analysis         | End of data wrangling plus start creating the dataset              | Dataset creation                                                          | Statistical analysis, firsts results                 | Shuffle result with other part             | Result organisation  |
 | Behavioral analisys       |                                                                    |                                                                           |                                                      |                                            |                      |
 | Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database<br/> - Local implementation, find the optimal paths | - Comparisons between paths<br/> - Hashing implementation | Extraction of the decision-making features | Results organisation |
