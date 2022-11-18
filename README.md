@@ -1,14 +1,9 @@
 # Wikispeedia : A glimpse of the human brain
 
-Teva Brotherson : <br/>
-Emilien Seiler : <br/>
-Christophe Roger : </br>
-Antoine Vincent  : <br/>
-
 ## Abstract
 
 Wikispeedia is a game where you have to find a path between a starting article and an objective article as faster as possible by clicking on the links available on th present article. It gives a lot of informations about how a player will decide what is, according to him, the best decision to take, because the player has to make compromises between speed and reflection on what would be the optimal decision, and we want to analyze the influence of several factors on these decisions to find an eventual pattern in the human behavior through wikispeedia. <br/>
-In order to do this we analyze 3 factors that could have an influence on decision-making of players : Spatial, temporal and behavioral factors that we will combine to assess the sub- optimal decisions against the engine behavior.
+In order to do this we analyze 3 factors that could have an influence on decision-making of players : Spatial, temporal and behavioral factors that we will combine to assess the sub-optimal decisions against the engine behavior.
  
 ## Research questions 
 3 different research dimension : 
@@ -26,7 +21,10 @@ Resources :
 
 
 ### Temporal analysis
- 
+Are the players infulenced by the mainstream topics of the period in which they play ? <br/>
+Do the "mainstream" topics stay in the reader's mind ? <br/>
+Do 2 players of a game with the same conditions play differently if they play at a different time ? <br/>
+
 And we combine those three axis to assess the 'sub-optimal' decisions against what would be the optimal decisions.
 
 ## Proposed additional dataset
@@ -43,7 +41,12 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 	- First, an analysis on how losing and winning influences the number of game played, using the number of games winned, lost and played to do linear regression and find the criteria that makes people want to play.
 	- Secondly, the same analysis but using time spend while playing.
 	- Then, an anaysis on the learning behavior of people through playing the game. I.e. if people get better the more they play the game. Need to do compaee win-rate, time spend per game, difficulty ratings... through time for each player.
-	
+- For temporal analysis:
+	- Extract data to extract the precise time of each path.
+	- Extract all topics from each path
+	- Extract the most used topics in each month
+	- Create a dataset of consumer events for each month (August 2008 to January 2014) and label them with the same set of labels as the article topics. I will use the wikipedia page of each month to create the dataset. (ex : https://en.wikipedia.org/wiki/Portal:Current_events/August_2014)
+	- Perform statistical tests to see if there are redundancies with the main topics of each month
 - Concerning the analysis of the paths: 
 	- Comparison of the shortest path length with the length of the paths played OK
 	- Overview of the category charachteristics OK
@@ -54,23 +57,13 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 
 
 ## Proposed timeline
-### Week 10
-Path analysis:
-- Setting up the local implementation of the website and mock trials.
-### Week 11
-Path analysis:
-- Creation of the SQLITE database
-- Local implementation  -> Way to find the optimal paths.
-### Week 12
-Path analysis:
-- Comparisons between paths
-- Hashing implementation
-### Week 13
-Path analysis:
-- Extraction of the decision-making features
-### Week 14
-Path analysis:
-- Results organisation
+
+| Week                      | 10                                                                 | 11                                                                        | 12                                                   | 13                                         | 14                   |
+|---------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------|----------------------|
+| Spatial analysis          |                                                                    |                                                                           |                                                      |                                            |                      |
+| Temporal analysis         | End of data wrangling plus start creating the dataset              | Dataset creation                                                          | Statistical analysis, firsts results                 | Shuffle result with other part             | Result organisation  |
+| Behavioral analisys       |                                                                    |                                                                           |                                                      |                                            |                      |
+| Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database<br/> - Local implementation, find the optimal paths | - Comparisons between paths<br/> - Hashing implementation | Extraction of the decision-making features | Results organisation |
 
 ## Organization within the team
 Christophe : Spatial data analysis, statistics and visualization <br/>
@@ -79,4 +72,5 @@ Antoine : Behavior analysis <br/>
 Teva : Players decision-making analysis <br/>
 
 ## Questions for TAs 
+- Do we know where the players are coming from (to select the right main event)  <br/>
 - We would like to incorporate machine learning into the project but we don't have ideas, where could we add some ?
