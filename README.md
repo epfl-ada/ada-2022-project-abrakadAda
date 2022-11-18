@@ -81,9 +81,9 @@ Path analysis:
 - Hashing implementation
 ### Week 13
 Temporal analysis: 
-- Shuffle result with other part <br/>
+	- Shuffle result with other part <br/>
 Path analysis:
-- Extraction of the decision-making features
+	- Extraction of the decision-making features
 ### Week 14
 Temporal analysis: 
 - Result organisation <br/>
