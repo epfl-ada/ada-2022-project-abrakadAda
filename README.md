@@ -17,6 +17,11 @@ Resources :
 - D. Lamprecht, K. Lerman, D. Helic, and M. Strohmaier. How the structure of wikipedia articles influences user navigation. New Review of Hypermedia and Multimedia, pages 1--22, 2016
 
 ### Behavioral analysis
+Is done in parallel with the course : HUM-432: How people learn: Designing Learning Tools,
+all ressources are the course one:
+Resources: 
+- Facilitating Experiential Learning in Higher Education. 2021. Roland Tormey
+- Tara L. Haynes , Lia M. Daniels , Robert H. Stupnisky , Raymond P. Perry & Steve Hladkyj (2008) The Effect of Attributional Retraining on Mastery and Performance Motivation Among First-Year College Students, BASIC AND APPLIED SOCIAL PSYCHOLOGY
 
 
 ### Temporal analysis
@@ -39,7 +44,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 - For behavioral analysis:
 	- First, an analysis on how losing and winning influences the number of game played, using the number of games winned, lost and played to do linear regression and find the criteria that makes people want to play.
 	- Secondly, the same analysis but using time spend while playing.
-	- Then, an anaysis on the learning behavior of people through playing the game. I.e. if people get better the more they play the game. Need to do compaee win-rate, time spend per game, difficulty ratings... through time for each player.
+	- Then, an anaysis on the learning behavior of people through playing the game. I.e. if people get better the more they play the game. Need to do compare win-rate, time spend per game, difficulty ratings... through time for each player.
 - For temporal analysis:
 	- Extract data to extract the precise time of each path.
 	- Extract all topics from each path
@@ -60,8 +65,8 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 | Week                      | 10                                                                 | 11                                                                        | 12                                                   | 13                                         | 14                   |
 |---------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------|----------------------|
 | Spatial analysis          | Finding the real position position of clicked links                                                               | Statistical and positional analysis                                                                        | Comparison with optimal paths                                                     | Data visualization                                           | Final analysis and results                     |
-| Temporal analysis         | End of data wrangling plus start creating the dataset              | Dataset creation                                                          | Statistical analysis, firsts results                 | Shuffle result with other part             | Result organisation  |
-| Behavioral analisys       |                                                                    |                                                                           |                                                      |                                            |                      |
+| Temporal analysis         | End of data wrangling plus start creating the dataset              | Dataset creation                                                          | Statistical analysis, firsts results                 | Shuffle result with other part             | Results organisation  |
+| Behavioral analisys       | Statistical analysis for what have been done                       | Data Wrangling for the learning part                                      | Statistical analysis of learning part                | Finalise this part and link it to others   | Results organisation  |
 | Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database<br/> - Local implementation, find the optimal paths | - Comparisons between paths<br/> - Hashing implementation | Extraction of the decision-making features | Results organisation |
 
 ## Organization within the team
