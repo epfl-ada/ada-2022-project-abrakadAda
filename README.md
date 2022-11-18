@@ -2,13 +2,16 @@
 
 Teva Brotherson : <br/>
 Emilien Seiler : <br/>
-Christophe Roger : <br/>
+Christophe Roger : </br>
 Antoine Vincent  : <br/>
 
 ## Abstract
 
-With the help of the dataset wikispeedia we will study the behavior of humans playing the game : 
- - motivation : human behavior through wikispeedia
+Wikispeedia is a game where you have to find a path between a starting article and an objective article as faster as possible by clicking on the links available on th present article. It gives a lot of informations about how a player will decide what is, according to him, the best decision to take, because the player has to make compromises between speed and reflection on what would be the optimal decision, and we want to analyze the influence of several factors on these decisions to find an eventual pattern in the human behavior through wikispeedia. <br/>
+In order to do this we analyze 3 factors that could have an influence on decision-making of players : Spatial, temporal and behavioral factors that we will combine to assess the sub- optimal decisions against the engine behavior.
+
+
+ - motivation : human behavior through wikispeediaco
  - story : what influe the choices of the player
  - because we think that this game gives a lot of information about the functionment of the human brain.
  - ==>GLIMPSE OF THE HUMAN BRAIN
