@@ -26,7 +26,10 @@ Resources :
 
 
 ### Temporal analysis
- 
+Are the players infulenced by the mainstream topics of the period in which they play ?
+Do the "mainstream" topics stay in the reader's mind ?
+Do 2 players of a game with the same conditions play differently if they play at a different time ?
+
 And we combine those three axis to assess the 'sub-optimal' decisions against what would be the optimal decisions.
 
 ## Proposed additional dataset
