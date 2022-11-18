@@ -69,7 +69,7 @@ Path analysis:
 - Setting up the local implementation of the website and mock trials.
 ### Week 11
 Temporal analysis: 
-- Dataset creation
+- Dataset creation <br/>
 Path analysis:
 - Creation of the SQLITE database
 - Local implementation  -> Way to find the optimal paths.
@@ -81,9 +81,9 @@ Path analysis:
 - Hashing implementation
 ### Week 13
 Temporal analysis: 
-	- Shuffle result with other part <br/>
+- Shuffle result with other part <br/>
 Path analysis:
-	- Extraction of the decision-making features
+- Extraction of the decision-making features
 ### Week 14
 Temporal analysis: 
 - Result organisation <br/>
