@@ -1,10 +1,5 @@
 # Wikispeedia : A glimpse of the human brain
 
-Teva Brotherson : <br/>
-Emilien Seiler : <br/>
-Christophe Roger : </br>
-Antoine Vincent  : <br/>
-
 ## Abstract
 
 Wikispeedia is a game where you have to find a path between a starting article and an objective article as faster as possible by clicking on the links available on th present article. It gives a lot of informations about how a player will decide what is, according to him, the best decision to take, because the player has to make compromises between speed and reflection on what would be the optimal decision, and we want to analyze the influence of several factors on these decisions to find an eventual pattern in the human behavior through wikispeedia. <br/>
