@@ -63,10 +63,10 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 
 ## Proposed timeline
 ### Week 
-Temporal analysis: 
-- End of data wrangling + start create dataset <br/>
-Path analysis:
-- Setting up the local implementation of the website and mock trials.
+- Temporal analysis: 
+	- End of data wrangling + start create dataset <br/>
+- Path analysis:
+	- Setting up the local implementation of the website and mock trials.
 ### Week 11
 - Temporal analysis: 
 	- Dataset creation <br/>
@@ -74,21 +74,21 @@ Path analysis:
 	- Creation of the SQLITE database
 	- Local implementation  -> Way to find the optimal paths.
 ### Week 12
-Temporal analysis: 
-- Statistical analysis -> first result <br/>
-Path analysis:
-- Comparisons between paths
-- Hashing implementation
+- Temporal analysis: 
+	- Statistical analysis -> first result <br/>
+- Path analysis:
+	- Comparisons between paths 
+	- Hashing implementation
 ### Week 13
-Temporal analysis: 
-- Shuffle result with other part <br/>
-Path analysis:
-- Extraction of the decision-making features
+- Temporal analysis: 
+	- Shuffle result with other part <br/>
+- Path analysis:
+	- Extraction of the decision-making features
 ### Week 14
-Temporal analysis: 
-- Result organisation <br/>
-Path analysis:
-- Results organisation
+- Temporal analysis: 
+	- Result organisation <br/>
+- Path analysis:
+	- Results organisation
 
 ## Organization within the team
 Christophe : Spatial data analysis, statistics and visualization <br/>
