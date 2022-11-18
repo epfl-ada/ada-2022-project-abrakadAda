@@ -3,7 +3,7 @@
 ## Abstract
 
 Wikispeedia is a game where you have to find a path between a starting article and an objective article as faster as possible by clicking on the links available on th present article. It gives a lot of informations about how a player will decide what is, according to him, the best decision to take, because the player has to make compromises between speed and reflection on what would be the optimal decision, and we want to analyze the influence of several factors on these decisions to find an eventual pattern in the human behavior through wikispeedia. <br/>
-In order to do this we analyze 3 factors that could have an influence on decision-making of players : Spatial, temporal and behavioral factors that we will combine to assess the sub- optimal decisions against the engine behavior.
+In order to do this we analyze 3 factors that could have an influence on decision-making of players : Spatial, temporal and behavioral factors that we will combine to assess the sub-optimal decisions against the engine behavior.
  
 ## Research questions 
 3 different research dimension : 
@@ -57,7 +57,16 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 
 
 ## Proposed timeline
-### Week 
+
+| Week                      | 10                                                                 | 11                                                                        | 12                                                   | 13                                         | 14                   |
+|---------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------|----------------------|
+| Spatial analysis          |                                                                    |                                                                           |                                                      |                                            |                      |
+| Temporal analysis         | End of data wrangling plus start creating the dataset              | Dataset creation                                                          | Statistical analysis, firsts results                 | Shuffle result with other part             | Result organisation  |
+| Behavioral analisys       |                                                                    |                                                                           |                                                      |                                            |                      |
+| Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database - Local implementation, find the optimal paths | - Comparisons between paths - Hashing implementation | Extraction of the decision-making features | Results organisation |
+
+
+### Week 10
 - Temporal analysis: 
 	- End of data wrangling + start create dataset <br/>
 - Path analysis:
