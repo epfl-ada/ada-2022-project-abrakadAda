@@ -64,7 +64,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 ## Proposed timeline
 ### Week 
 Temporal analysis: 
-- End of data wrangling + start create dataset
+- End of data wrangling + start create dataset <br/>
 Path analysis:
 - Setting up the local implementation of the website and mock trials.
 ### Week 11
@@ -75,18 +75,18 @@ Path analysis:
 - Local implementation  -> Way to find the optimal paths.
 ### Week 12
 Temporal analysis: 
-- Statistical analysis -> first result
+- Statistical analysis -> first result <br/>
 Path analysis:
 - Comparisons between paths
 - Hashing implementation
 ### Week 13
 Temporal analysis: 
-- Shuffle result with other part
+- Shuffle result with other part <br/>
 Path analysis:
 - Extraction of the decision-making features
 ### Week 14
 Temporal analysis: 
-- Result organisation
+- Result organisation <br/>
 Path analysis:
 - Results organisation
 
@@ -97,5 +97,5 @@ Antoine : Behavior analysis <br/>
 Teva : Players decision-making analysis <br/>
 
 ## Questions for TAs 
-- Do we know where the players are coming from (to select the right main event)  
+- Do we know where the players are coming from (to select the right main event)  <br/>
 - We would like to incorporate machine learning into the project but we don't have ideas, where could we add some ?
