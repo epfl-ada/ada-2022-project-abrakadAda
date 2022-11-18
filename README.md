@@ -26,7 +26,9 @@ In order to do this we analyze 3 factors that could have an influence on decisio
 Those three dimensions will be useful to assess the 'sub-optimal' decisions (engine behavior)
 
 ## Proposed additional dataset
-https://www.sixdegreesofwikipedia.com/
+- https://www.sixdegreesofwikipedia.com/: Not properly a dataset. The algorithm of this website will serve us to find the optimal path between articles. 
+	We will have to implement it locally, and implement a SQLITE database on which the algorithm can run. <br/>
+	There's a whole explanation on the Github linked on how to steps to follow to use it locally (further informations on Analysis_paths.ipynb).
 
 ## Methods (chacun écrit ce qu'on fait)
 - data analysis with python librairies : Pandas, Numpy, BeautifulSoup
@@ -40,7 +42,10 @@ https://www.sixdegreesofwikipedia.com/
 - Concerning the analysis of the paths: 
 	- Comparison of the shortest path length with the length of the paths played OK
 	- Overview of the category charachteristics OK
+	
 	The following tasks consists of extracting the optimal paths and analyze the comparison with the played ones via the implementation of a local version of the above-mentioned website. 
+	
+	Another task would be to implement a hashing algorithm to find faster initial and final article and length of the paths.
 
 
 ## Proposed timeline
@@ -54,6 +59,7 @@ Path analysis:
 ### Week 12
 Path analysis:
 - Comparisons between paths
+- Hashing implementation
 ### Week 13
 Path analysis:
 - Extraction of the decision-making features
