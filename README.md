@@ -42,9 +42,9 @@ Those three dimensions will be useful to assess the 'sub-optimal' decisions (eng
 - Concerning the analysis of the paths: 
 	- Comparison of the shortest path length with the length of the paths played OK
 	- Overview of the category charachteristics OK
-	
+
 	The following tasks consists of extracting the optimal paths and analyze the comparison with the played ones via the implementation of a local version of the above-mentioned website. 
-	
+
 	Another task would be to implement a hashing algorithm to find faster initial and final article and length of the paths.
 
 
