@@ -26,9 +26,9 @@ Resources :
 
 
 ### Temporal analysis
-Are the players infulenced by the mainstream topics of the period in which they play ?
-Do the "mainstream" topics stay in the reader's mind ?
-Do 2 players of a game with the same conditions play differently if they play at a different time ?
+Are the players infulenced by the mainstream topics of the period in which they play ? <br/>
+Do the "mainstream" topics stay in the reader's mind ? <br/>
+Do 2 players of a game with the same conditions play differently if they play at a different time ? <br/>
 
 And we combine those three axis to assess the 'sub-optimal' decisions against what would be the optimal decisions.
 
@@ -46,7 +46,11 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 	- First, an analysis on how losing and winning influences the number of game played, using the number of games winned, lost and played to do linear regression and find the criteria that makes people want to play.
 	- Secondly, the same analysis but using time spend while playing.
 	- Then, an anaysis on the learning behavior of people through playing the game. I.e. if people get better the more they play the game. Need to do compaee win-rate, time spend per game, difficulty ratings... through time for each player.
-	
+- For temporal analysis:
+	- Extract data to extract the precise time of each path.
+	- Extract all topics from each path
+	- Extract the most used topics in each month
+	- Perform statistical tests to see if there are redundancies with the main topics of each month
 - Concerning the analysis of the paths: 
 	- Comparison of the shortest path length with the length of the paths played OK
 	- Overview of the category charachteristics OK
