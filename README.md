@@ -63,7 +63,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 | Spatial analysis          |                                                                    |                                                                           |                                                      |                                            |                      |
 | Temporal analysis         | End of data wrangling plus start creating the dataset              | Dataset creation                                                          | Statistical analysis, firsts results                 | Shuffle result with other part             | Result organisation  |
 | Behavioral analisys       |                                                                    |                                                                           |                                                      |                                            |                      |
-| Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database - Local implementation, find the optimal paths | - Comparisons between paths - Hashing implementation | Extraction of the decision-making features | Results organisation |
+| Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database<br/> - Local implementation, find the optimal paths | - Comparisons between paths<br/> - Hashing implementation | Extraction of the decision-making features | Results organisation |
 
 
 ### Week 10
