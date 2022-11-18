@@ -68,9 +68,9 @@ Temporal analysis:
 Path analysis:
 - Setting up the local implementation of the website and mock trials.
 ### Week 11
--Temporal analysis: 
+- Temporal analysis: 
 	- Dataset creation <br/>
--Path analysis:
+- Path analysis:
 	- Creation of the SQLITE database
 	- Local implementation  -> Way to find the optimal paths.
 ### Week 12
