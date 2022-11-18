@@ -13,8 +13,8 @@ In order to do this we analyze 3 factors that could have an influence on decisio
 ## Research questions 
 3 different research dimension : 
 ### Spatial analysis : 
-Does the location of the links in the wikipedia article have an influence on the decisions of the players ? <br\>
-Does the average difference between the location of the clicked link and the best link is significant ? <br\>
+Does the location of the links in the wikipedia article have an influence on the decisions of the players ? <br/>
+Does the average difference between the location of the clicked link and the best link is significant ? <br/>
 
 Resources : 
 
