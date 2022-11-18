@@ -50,6 +50,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 	- Extract data to extract the precise time of each path.
 	- Extract all topics from each path
 	- Extract the most used topics in each month
+	- Create a dataset of consumer events for each month (August 2008 to January 2014) and label them with the same set of labels as the article topics. I will use the wikipedia page of each month to create the dataset. (ex : https://en.wikipedia.org/wiki/Portal:Current_events/August_2014)
 	- Perform statistical tests to see if there are redundancies with the main topics of each month
 - Concerning the analysis of the paths: 
 	- Comparison of the shortest path length with the length of the paths played OK
@@ -86,4 +87,5 @@ Antoine : Behavior analysis <br/>
 Teva : Players decision-making analysis <br/>
 
 ## Questions for TAs 
+- Do we know where the players are coming from (to select the right main event)  
 - We would like to incorporate machine learning into the project but we don't have ideas, where could we add some ?
