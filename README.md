@@ -18,7 +18,7 @@ Resources :
 
 ### Behavioral analysis
 Is done in parallel with the course : HUM-432: How people learn: Designing Learning Tools,
-all ressources are the course one:
+all resources are the course one:
 Resources: 
 - Facilitating Experiential Learning in Higher Education. 2021. Roland Tormey
 - Tara L. Haynes , Lia M. Daniels , Robert H. Stupnisky , Raymond P. Perry & Steve Hladkyj (2008) The Effect of Attributional Retraining on Mastery and Performance Motivation Among First-Year College Students, BASIC AND APPLIED SOCIAL PSYCHOLOGY
@@ -29,7 +29,7 @@ Are the players infulenced by the mainstream topics of the period in which they 
 Do the "mainstream" topics stay in the reader's mind ? <br/>
 Do 2 players of a game with the same conditions play differently if they play at a different time ? <br/>
 
-And we combine those three axis to assess the 'sub-optimal' decisions against what would be the optimal decisions.
+And we combine those three axes to assess the 'sub-optimal' decisions against what would be the optimal decisions.
 
 ## Proposed additional dataset
 - https://www.sixdegreesofwikipedia.com/: Not properly a dataset. The algorithm of this website will serve us to find the optimal path between articles. 
@@ -44,7 +44,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 - For behavioral analysis:
 	- First, an analysis on how losing and winning influences the number of game played, using the number of games winned, lost and played to do linear regression and find the criteria that makes people want to play.
 	- Secondly, the same analysis but using time spend while playing.
-	- Then, an anaysis on the learning behavior of people through playing the game. I.e. if people get better the more they play the game. Need to do compare win-rate, time spend per game, difficulty ratings... through time for each player.
+	- Then, an analysis on the learning behavior of people through playing the game. I.e. if people get better the more they play the game. Need to do compare win-rate, time spend per game, difficulty ratings... through time for each player.
 - For temporal analysis:
 	- Extract data to extract the precise time of each path.
 	- Extract all topics from each path
@@ -53,7 +53,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 	- Perform statistical tests to see if there are redundancies with the main topics of each month
 - Concerning the analysis of the paths: 
 	- Comparison of the shortest path length with the length of the paths played OK
-	- Overview of the category charachteristics OK
+	- Overview of the category characteristics OK
 
 	The following tasks consists of extracting the optimal paths and analyze the comparison with the played ones via the implementation of a local version of the above-mentioned website. 
 
@@ -66,7 +66,7 @@ And we combine those three axis to assess the 'sub-optimal' decisions against wh
 |---------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------|----------------------|
 | Spatial analysis          | Finding the real position position of clicked links                                                               | Statistical and positional analysis                                                                        | Comparison with optimal paths                                                     | Data visualization                                           | Final analysis and results                     |
 | Temporal analysis         | End of data wrangling plus start creating the dataset              | Dataset creation                                                          | Statistical analysis, firsts results                 | Shuffle result with other part             | Results organisation  |
-| Behavioral analisys       | Statistical analysis for what have been done                       | Data Wrangling for the learning part                                      | Statistical analysis of learning part                | Finalise this part and link it to others   | Results organisation  |
+| Behavioral analysis       | Statistical analysis for what have been done                       | Data Wrangling for the learning part                                      | Statistical analysis of learning part                | Finalise this part and link it to others   | Results organisation  |
 | Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database<br/> - Local implementation, find the optimal paths | - Comparisons between paths<br/> - Hashing implementation | Extraction of the decision-making features | Results organisation |
 
 ## Organization within the team
