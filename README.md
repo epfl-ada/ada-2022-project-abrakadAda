@@ -11,8 +11,7 @@ In order to do this we analyze 3 factors that could have an influence on decisio
 Does the location of the links in the wikipedia article have an influence on the decisions of the players ? <br/>
 Does the average difference between the location of the clicked link and the best link is significant ? <br/>
 
-### Resources : 
-
+Resources : 
 - Dimitar Dimitrov, Philipp Singer, Florian Lemmerich, and Markus Strohmaier. 2017. What Makes a Link Successful on Wikipedia? In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE, 917–926. https://doi.org/10.1145/3038912.3052613
 - D. Dimitrov, P. Singer, F. Lemmerich, and M. Strohmaier. Visual positions of links and clicks on wikipedia. In Int. Conference Companion on World Wide Web, 2016. 
 - D. Lamprecht, K. Lerman, D. Helic, and M. Strohmaier. How the structure of wikipedia articles influences user navigation. New Review of Hypermedia and Multimedia, pages 1--22, 2016
