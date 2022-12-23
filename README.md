@@ -1,5 +1,7 @@
 # Wikispeedia : A glimpse of the human brain
 
+## website: https://eseiler18.github.io/
+
 ## Abstract
 
 Wikispeedia is a game where you have to find a path between a starting article and an objective article as faster as possible by clicking on the links available on th present article. It gives a lot of informations about how a player will decide what is, according to him, the best decision to take, because the player has to make compromises between speed and reflection on what would be the optimal decision, and we want to analyze the influence of several factors on these decisions to find an eventual pattern in the human behavior through wikispeedia. <br/>
@@ -70,11 +72,7 @@ And we combine those three axes to assess the 'sub-optimal' decisions against wh
 | Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database<br/> - Local implementation, find the optimal paths | - Comparisons between paths<br/> - Hashing implementation | Extraction of the decision-making features | Results organisation |
 
 ## Organization within the team
-Christophe : Spatial data analysis, statistics and visualization <br/>
-Emilien : Temporal analysis <br/>
-Antoine : Behavior analysis <br/>
-Teva : Players decision-making analysis <br/>
-
-## Questions for TAs 
-- Do we know where the players are coming from (to select the right main event)  <br/>
-- We would like to incorporate machine learning into the project but we don't have ideas, where could we add some ?
+Christophe : Spatial data crawling, statistics and visualization, datastory<br/>
+Emilien : Temporal analysis, website presentation, random-tree forest analysis <br/>
+Antoine : Behavior analysis, data analysis and visualization, wrote global data-story <br/>
+Teva : Players decision-making analysis against computer playing, data visualization, datastory <br/>
