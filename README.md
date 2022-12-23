@@ -70,11 +70,7 @@ And we combine those three axes to assess the 'sub-optimal' decisions against wh
 | Decisions-making analysis | Setting up the local implementation of the website and mock trials | - Creating SQLite database<br/> - Local implementation, find the optimal paths | - Comparisons between paths<br/> - Hashing implementation | Extraction of the decision-making features | Results organisation |
 
 ## Organization within the team
-Christophe : Spatial data analysis, statistics and visualization <br/>
-Emilien : Temporal analysis <br/>
-Antoine : Behavior analysis <br/>
-Teva : Players decision-making analysis <br/>
-
-## Questions for TAs 
-- Do we know where the players are coming from (to select the right main event)  <br/>
-- We would like to incorporate machine learning into the project but we don't have ideas, where could we add some ?
+Christophe : Spatial data crawling, statistics and visualization, datastory<br/>
+Emilien : Temporal analysis, website presentation, random-tree forest analysis <br/>
+Antoine : Behavior analysis, data analysis and visualization, wrote global data-story <br/>
+Teva : Players decision-making analysis against computer playing, data visualization, datastory <br/>
